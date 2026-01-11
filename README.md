@@ -14,7 +14,7 @@
 I am currently operating on a "Learn by Building" protocol.
 * **Focus:** Translating First Principles thinking into code.
 * **Active Challenge:** Solving 1 DSA problem daily.
-* **Latest Build:** myfocus-dashboard.netlify.app
+* **Latest Build:** https://myfocus-dashboard.netlify.app
 
 
 
